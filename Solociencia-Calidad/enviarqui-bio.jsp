@@ -1,4 +1,5 @@
 <html>
+<!DOCTYPE>
 <head>
 
 <%@page import="java.sql.*" %>
